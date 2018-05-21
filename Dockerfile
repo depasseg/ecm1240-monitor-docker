@@ -1,5 +1,5 @@
 #
-# Btmon ecm data collection and publishing service
+# Btmon for BBrultech ECM and GEM data collection and publishing service
 #
 # http://github.com/tenstartups/btmon-docker
 #
